@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/notebookwebapp/static/js/main.a0240e7f.js",
+    "index.html": "/notebookwebapp/index.html",
+    "main.a0240e7f.js.map": "/notebookwebapp/static/js/main.a0240e7f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0240e7f.js"
+  ]
+}
